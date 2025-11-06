@@ -3,8 +3,8 @@ import requests, datetime
 
 app = Flask(__name__)
 
-BOT_TOKEN = 'غير_هنا_بـ_TOKEN_البوت'
-CHAT_ID = 'غير_هنا_بـ_CHAT_ID'
+BOT_TOKEN = '8343783977:AAGJr6fRxaqGboWrvD5lS-2HU6NkJKl5Dvw'
+CHAT_ID = '7220017928'
 
 def send(msg):
     try:
